@@ -1,0 +1,13 @@
+IRNet-2/
+results/
+best.ckpt
+crop_256.py
+IRNet-2_mindspore.txt
+IRNet-2_pytorch.txt
+IRNet-1-48/
+IRNet-1-48-re/
+IRNet-2-torch/
+SRITM-IRNet-5/
+IRNet-1-48-torch/
+IRNet-2-torch-re/
+SRITM-IRNet-5-torch/
